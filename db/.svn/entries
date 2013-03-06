@@ -26,6 +26,40 @@ has-props
 
 9fbdad93-6a33-634f-88cc-e4c16718f7d2
 
+schema.rb
+file
+1697
+
+
+
+2013-03-06T16:07:58.291115Z
+cbb5feb219d89caf26b5e95fb2607411
+2013-03-06T16:08:44.611719Z
+1697
+sroutier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+985
+
 seeds.rb
 file
 1692
@@ -59,4 +93,7 @@ sroutier
 
 
 343
+
+migrate
+dir
 
