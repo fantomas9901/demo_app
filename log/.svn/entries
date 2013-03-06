@@ -1,7 +1,7 @@
 10
 
 dir
-1693
+1699
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury/trunk/home/sroutier/src/misc/railstutorial.org/demo_app/log
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury
 
@@ -28,7 +28,7 @@ has-props
 
 .gitkeep
 file
-1692
+
 
 
 

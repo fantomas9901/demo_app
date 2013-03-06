@@ -1,14 +1,14 @@
 10
 
 dir
-1693
+1699
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury/trunk/home/sroutier/src/misc/railstutorial.org/demo_app/db
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury
 
 
 
-2013-03-06T02:26:56.824384Z
-1693
+2013-03-06T16:08:44.611719Z
+1697
 sroutier
 has-props
 
@@ -28,7 +28,7 @@ has-props
 
 schema.rb
 file
-1697
+
 
 
 
@@ -62,7 +62,7 @@ sroutier
 
 seeds.rb
 file
-1692
+
 
 
 

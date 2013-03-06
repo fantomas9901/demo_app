@@ -1,14 +1,14 @@
 10
 
 dir
-1693
+1699
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury/trunk/home/sroutier/src/misc/railstutorial.org/demo_app
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury
 
 
 
-2013-03-06T02:26:56.824384Z
-1693
+2013-03-06T18:30:59.370319Z
+1699
 sroutier
 has-props
 
@@ -37,7 +37,7 @@ dir
 
 Rakefile
 file
-1692
+
 
 
 
@@ -71,7 +71,7 @@ sroutier
 
 README.rdoc
 file
-1692
+
 
 
 
@@ -108,7 +108,7 @@ dir
 
 config.ru
 file
-1692
+
 
 
 
@@ -145,7 +145,7 @@ dir
 
 Gemfile.lock
 file
-1695
+
 
 
 
@@ -185,7 +185,7 @@ dir
 
 .gitignore
 file
-1698
+
 
 
 
@@ -228,7 +228,7 @@ dir
 
 Gemfile
 file
-1694
+
 
 
 

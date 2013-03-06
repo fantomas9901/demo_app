@@ -1,14 +1,14 @@
 10
 
 dir
-1692
+1699
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury/trunk/home/sroutier/src/misc/railstutorial.org/demo_app/config
 svn+ssh8080://sroutier@routier.zapto.org/svn-repos/mercury
 
 
 
-2013-03-06T02:08:05.168293Z
-1692
+2013-03-06T16:05:12.241801Z
+1696
 sroutier
 
 
@@ -31,7 +31,7 @@ dir
 
 routes.rb
 file
-1696
+
 
 
 
